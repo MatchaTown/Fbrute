@@ -23,16 +23,8 @@ def jalan(z):
         time.sleep(0.01)
 
 
-logo = print
-       print
-       print("{} +------------------------------------+ ").format(ij)
-       print("{} |       TOOL'S H@CK {}FACEBOOK        {} | ").format(ij,bi,ij)
-       print("{} |------------------------------------| ").format(ij)
-       print("{} |  Author  :{} Mr.Xbal Meonk       {}    | ").format(ij,re,ij)
-       print{"{} | facebook :{} Cengir Eea           {}   | ").format(ij,bi,ij)
-       print("{} |------------------------------------| ").format(ij)
-       print("{} |       {}  SELAMAT MENCOBA   {}         | ").format(ij,ye,ij)
-       print("{} +------------------------------------+ ").format(ij)
+logo = '\x1b[1;92m\n\xe2\x95\x94\xe2\x95\xa6\xe2\x95\x97\xe2\x94\x8c\xe2\x94\x80\xe2\x94\x90\xe2\x94\xac\xe2\x94\x80\xe2\x94\x90\xe2\x94\xac\xe2\x94\x8c\xe2\x94\x80   \xe2\x95\x94\xe2\x95\x90\xe2\x95\x97\xe2\x95\x94\xe2\x95\x97 \n \xe2\x95\x91\xe2\x95\x91\xe2\x94\x9c\xe2\x94\x80\xe2\x94\xa4\xe2\x94\x9c\xe2\x94\xac\xe2\x94\x98\xe2\x94\x9c\xe2\x94\xb4\xe2\x94\x90\xe2\x94\x80\xe2\x94\x80\xe2\x94\x80\xe2\x95\xa0\xe2\x95\xa3 \xe2\x95\xa0\xe2\x95\xa9\xe2\x95\x97\n\xe2\x95\x90\xe2\x95\xa9\xe2\x95\x9d\xe2\x94\xb4 \xe2\x94\xb4\xe2\x94\xb4\xe2\x94\x94\xe2\x94\x80\xe2\x94\xb4 \xe2\x94\xb4   \xe2\x95\x9a  \xe2\x95\x9a\xe2\x95\x90\xe2\x95\x9d \x1b[1;93mv1.6\n\x1b[1;93m* \x1b[1;97mAuthor  \x1b[1;91m: \x1b[1;96mMr.Xbal Meonk\x1b[1;97m\n\x1b[1;93m* \x1b[1;97mFacebook \x1b[1;91m: \x1b[1;96mCengir eea\x1b[1;97m[\x1b[1;96m\x1b[1;97m] \x1b[1;97m/ \x1b[1;96mGUNAKAN DENGAN BIJAK \x1b[1;97m/ \x1b[1;96mMr.Xbal Meonk\n\x1b[1;93m* \x1b[1;97mYoutube  \x1b[1;91m: \x1b[1;92m\x1b[4mXbal Meonk\x1b[0m\n[*] Decompiled by Mr.Xbal Meonk\n'
+
 
 def tik():
     titik = [
