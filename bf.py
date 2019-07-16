@@ -45,7 +45,7 @@ def banner():
     print("     {}|   {} Youtube   {}:{} Xbal Meonk        {}   |   ").format(CC,GG,CC,RR,CC)
     print("     {}|-------------------------------------|   ").format(CC)
     print("     {}|    kata mama {}phising{} boleh yang     |   ").format(CC,YY,CC)
-    print("     {}|   {}   penting tetep {}SHOLAT...{}^_^    {} |   ").format(GG,CC,YY,CC,YY,CC,GG)
+    print("     {}|   {}   penting tetep {}SHOLAT...{}^_^    {} |   ").format(GG,CC,YY,CC,,GG)
     print("     {}<<{}===================================={}<<   ").format(CC,GG,CC)
     print("                                                 ")
 
