@@ -36,7 +36,7 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print(" ")
-    print("     {}>{}====================================={}>   ").format(YY,GG,YY)
+    print("     {}>>{}===================================={}>>   ").format(CC,GG,CC)
     print("     {}|     {}TOOL'S    H4cK   FACEB00K      {} |   ").format(GG,CC,GG)
     print("     {}|        {} target   TERBARU           {} |   ").format(CC,CC,CC)
     print("     {}|-------------------------------------|   ").format(CC)
@@ -44,9 +44,9 @@ def banner():
     print("     {}|   {} facebook  {}: {}Cengir Eea         {}  |   ").format(CC,GG,CC,BB,CC)
     print("     {}|   {} Youtube   {}:{} Xbal Meonk        {}   |   ").format(CC,GG,CC,RR,CC)
     print("     {}|-------------------------------------|   ").format(CC)
-    print("     {}|  {}  kata mama {}phising{} boleh yang    {} |   ").format(CC,YY,CC,YY,CC)
-    print("     {}|   {}   penting tetep {}SHOLAT...{}^_^    {} |   ").format(GG,YY,CC,YY,GG)
-    print("     {}<====================================={}<   ").format(YY,GG,YY)
+    print("     {}|    kata mama {}phising{} boleh yang     |   ").format(CC,YY,CC)
+    print("     {}|   {}   penting tetep {}SHOLAT...{}^_^    {} |   ").format(GG,CC,YY,CC,YY,CC,GG)
+    print("     {}<<{}===================================={}<<   ").format(CC,GG,CC)
     print("                                                 ")
 
 banner()
@@ -141,14 +141,16 @@ def runn_noobs():
          global password_list
 
          lop = GG+"""
-      ___     ___    ____       ____            
-      \  \   /  /   |    \    /     | 	S E D A N G
-       \  \ /  /    |  |\  \ /  /|  |   M E N G C R A C K..
-       /  / \  \    |  | \     / |  |
-      /__/   \__\   |__|  \___/  |__|
+      ___       ___    ____        ____  |          
+      \  \     /  /   |    \     /     | |    S E D A N G
+       \  \   /  /    |  |\  \  /  /|  | |  M E N G C R A C K...
+        \  \ /  /     |  | \  \/  / |  | |
+	/  / \  \     |  |  \    /  |  | |    harap tunggu ^_^
+       /  /   \  \    |  |   \__/   |  | |
+      /__/     \__\   |__|          |__| |
       
 		  
-		  ` \033[91;1m
+		   \033[91;1m
                 \033[90;1mSabar Cuk\033[91;1m
              Powered by:\033[97m Mr.Xbal Meonk
       """
