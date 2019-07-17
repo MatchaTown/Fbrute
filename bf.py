@@ -148,11 +148,12 @@ def runn_noobs():
       /  / \  \ b@l   |  |  \    /  |  |30nk. 
      /  /   \  \      |  |   \__/   |  |
     /__/     \__\     |__|          |__|
+    
          S E D A N G   M E N C R A C K
 		harap tunggu ^_^...
 		
 		   \033[91;1m
-                \033[90;1mSabar Cuk\033[91;1m
+              \033[90;1mS A B A R  C U K...\033[91;1m
              Powered by:\033[97m Mr.Xbal Meonk
       """
 
