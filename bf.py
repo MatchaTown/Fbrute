@@ -45,7 +45,7 @@ def banner():
     print("     {}|   {} Youtube   {}:{} Xbal Meonk        {}   |   ").format(CC,GG,CC,RR,CC)
     print("     {}|-------------------------------------|   ").format(CC)
     print("     {}|    kata mama {}phising{} boleh yang     |   ").format(CC,YY,CC)
-    print("     {}|   {}   penting tetep {}SHOLAT...{}^_^    {} |   ").format(GG,CC,YY,CC,,GG)
+    print("     {}|   {}   penting tetep {}SHOLAT...{}^_^    {} |   ").format(GG,CC,YY,CC,GG)
     print("     {}<<{}===================================={}<<   ").format(CC,GG,CC)
     print("                                                 ")
 
@@ -141,15 +141,16 @@ def runn_noobs():
          global password_list
 
          lop = GG+"""
-      ___       ___    ____        ____  |          
-      \  \     /  /   |    \     /     | |    S E D A N G
-       \  \   /  /    |  |\  \  /  /|  | |  M E N G C R A C K...
-        \  \ /  /     |  | \  \/  / |  | |
-	/  / \  \     |  |  \    /  |  | |    harap tunggu ^_^
-       /  /   \  \    |  |   \__/   |  | |
-      /__/     \__\   |__|          |__| |
-      
-		  
+    ___       ___      ____        ____             
+    \  \     /  /     |    \     /     | 
+     \  \   /  /      |  |\  \  /  /|  | 
+      \  \ /  /       |  | \  \/  / |  | 
+      /  / \  \ b@l   |  |  \    /  |  |30nk. 
+     /  /   \  \      |  |   \__/   |  |
+    /__/     \__\     |__|          |__|
+         S E D A N G   M E N C R A C K
+		harap tunggu ^_^...
+		
 		   \033[91;1m
                 \033[90;1mSabar Cuk\033[91;1m
              Powered by:\033[97m Mr.Xbal Meonk
